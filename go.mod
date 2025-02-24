@@ -9,10 +9,10 @@ require (
 	k8s.io/apimachinery v0.32.2
 	k8s.io/code-generator v0.32.2
 	knative.dev/client/pkg v0.0.0-00010101000000-000000000000
-	knative.dev/hack v0.0.0-20250217122557-ce4c934f30e5
-	knative.dev/networking v0.0.0-20250217154350-2cde4327c6c8
-	knative.dev/pkg v0.0.0-20250218011850-c925de2a3f07
-	knative.dev/serving v0.44.1-0.20250218114651-582f4539db64
+	knative.dev/hack v0.0.0-20250219013704-306ce745e077
+	knative.dev/networking v0.0.0-20250219154947-1aaade762e12
+	knative.dev/pkg v0.0.0-20250219013713-9e265611c097
+	knative.dev/serving v0.44.1-0.20250220121848-87c07ee250da
 	sigs.k8s.io/yaml v1.4.0
 )
 
@@ -22,7 +22,7 @@ require (
 	contrib.go.opencensus.io/exporter/ocagent v0.7.1-0.20200907061046-05415f1de66d // indirect
 	contrib.go.opencensus.io/exporter/prometheus v0.4.2 // indirect
 	emperror.dev/errors v0.8.1 // indirect
-	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
+	github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161 // indirect
 	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/blendle/zapdriver v1.3.1 // indirect
@@ -47,7 +47,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
-	github.com/google/btree v1.1.2 // indirect
+	github.com/google/btree v1.1.3 // indirect
 	github.com/google/gnostic-models v0.6.9 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/go-containerregistry v0.20.3 // indirect
@@ -128,7 +128,7 @@ require (
 	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7 // indirect
 	k8s.io/utils v0.0.0-20241210054802-24370beab758 // indirect
-	knative.dev/eventing v0.44.1-0.20250218063550-9a7c6d5633c5 // indirect
+	knative.dev/eventing v0.44.1-0.20250224122320-c828898de896 // indirect
 	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8 // indirect
 	sigs.k8s.io/kustomize/api v0.13.5-0.20230601165947-6ce0bf390ce3 // indirect
 	sigs.k8s.io/kustomize/kyaml v0.14.3-0.20230601165947-6ce0bf390ce3 // indirect
